@@ -4,7 +4,7 @@ A fun and interactive **Fruit Slicer** game built using **HTML**, **CSS**, and *
 
 ## 🚀 Live Demo
 
-👉 [Play the Game Here](https://harshh-devv.github.io/Fruit-Slicer-Game/):https://harshh-devv.github.io/Fruit-Slicer-Game/
+👉 [Play the Game Here] :https://harshh-devv.github.io/Fruit-Slicer-Game/
 
 ## 🎮 Game Features
 
@@ -21,4 +21,42 @@ A fun and interactive **Fruit Slicer** game built using **HTML**, **CSS**, and *
 - **JavaScript** – Game logic, fruit motion, scoring system
 
 ## 📁 Project Structure
+Fruit-Slicer-Game/
 
+├── index.html # Main HTML file
+
+├── style.css # Game styling
+
+└── script.js # Game logic and interactivity
+
+
+## 💻 How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/harshh-devv/Fruit-Slicer-Game.git
+
+2. Open the project directory:
+   ```bash
+   cd Fruit-Slicer-Game
+
+3. Open index.html in your browser to start the game
+
+   🌟 Future Improvements (Ideas)
+
+      Add sound effects and background music
+
+      Add levels or increasing difficulty
+
+      Include power-ups or bonus fruits
+
+      Leaderboard or high score tracking
+
+      Mobile responsiveness
+
+
+📄 License
+
+This project is licensed under the MIT License — feel free to use, modify, and share!
+
+👨‍💻 Developed by Harsh Jogadiya
